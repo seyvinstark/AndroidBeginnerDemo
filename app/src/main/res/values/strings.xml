@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">twist</string>
+    <string name="mystring">press me</string>
+    <string-array name="province_array">
+        <item>Kigali</item>
+        <item>East</item>
+        <item>West</item>
+        <item>North</item>
+        <item>South</item>
+    </string-array>
+</resources>
